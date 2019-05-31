@@ -57,3 +57,7 @@ Ender3 3d Printer: https://amzn.to/2GcznnZ
 Dupont Crimper and Connector Set: https://amzn.to/2X1Oeap
 
 ## Alexa only support (no hub required) coming soon
+
+## DS18B20 temperature sensor
+
+Temperature sensor at D1, USER_MQTT_CLIENT_NAME/temp
