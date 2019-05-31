@@ -1,4 +1,4 @@
-# Motorized_MQTT_Blinds
+# Motorized_MQTT_Blinds + temeratue sensor on D1
 
 
 This repository is to accompany my Motorized_MQTT_Blinds video:
