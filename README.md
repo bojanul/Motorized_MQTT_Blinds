@@ -1,4 +1,4 @@
-# Motorized_MQTT_Blinds + temperature sensor on D1
+# Motorized_MQTT_Blinds + temperature sensor on D1 + Domoticz integration
 
 
 This repository is to accompany my Motorized_MQTT_Blinds video:
@@ -61,3 +61,8 @@ Dupont Crimper and Connector Set: https://amzn.to/2X1Oeap
 ## DS18B20 temperature sensor
 
 Temperature sensor at D1, USER_MQTT_CLIENT_NAME/temp
+
+## Domoticz
+Define IDX from the Domoticz virtual sensor
+#define TEMPIDX "34"
+#define STEPPERIDX 35
