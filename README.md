@@ -64,5 +64,6 @@ Temperature sensor at D1, USER_MQTT_CLIENT_NAME/temp
 
 ## Domoticz
 Define IDX from the Domoticz virtual sensor
+
 #define TEMPIDX "34"
 #define STEPPERIDX 35
