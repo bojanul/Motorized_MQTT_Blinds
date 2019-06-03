@@ -12,8 +12,8 @@
 /*****************  START USER CONFIG SECTION *********************************/
 /*****************  START USER CONFIG SECTION *********************************/
 
-#define USER_SSID                 "tosmomi"
-#define USER_PASSWORD             "1fe0pire"
+#define USER_SSID                 "happy"
+#define USER_PASSWORD             "drkdbvo8461thdrth"
 #define USER_MQTT_SERVER          "192.168.5.30"
 #define USER_MQTT_PORT            1883
 #define USER_MQTT_USERNAME        ""
