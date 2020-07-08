@@ -66,7 +66,9 @@ Temperature sensor at D1, USER_MQTT_CLIENT_NAME/temp
 Add the MQTT support (MQTT Client Gateway)
 
 Define IDX from the Domoticz virtual sensor
+
 #define TEMPIDX "34"
 
 Add a switch ( type: Blinds) and note the IDX. Edit the #define STEPPERIDX
+
 #define STEPPERIDX 35
