@@ -63,7 +63,10 @@ Dupont Crimper and Connector Set: https://amzn.to/2X1Oeap
 Temperature sensor at D1, USER_MQTT_CLIENT_NAME/temp
 
 ## Domoticz
-Define IDX from the Domoticz virtual sensor
+Add the MQTT support (MQTT Client Gateway)
 
+Define IDX from the Domoticz virtual sensor
 #define TEMPIDX "34"
+
+Add a switch ( type: Blinds) and note the IDX. Edit the #define STEPPERIDX
 #define STEPPERIDX 35
